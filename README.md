@@ -2,6 +2,8 @@
 
 <img src="https://lh3.googleusercontent.com/aomHjXLr8v1IbhdlpgCYTCEMtsBH-qe0xkYvrNa5jm_j_Qcl6rXrdwTFGTu5NSc3Eg=s360-rw" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="150" />
 
+https://play.google.com/store/apps/details?id=com.dazzleHR
+
 DazzleHR allows Human Resources managers to keep up to date on all important employees information straight from their smartphone. Human Resources managers can also text work schedules to employees through Messaging.
 
 ## Built With
